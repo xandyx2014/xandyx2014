@@ -1,5 +1,5 @@
-<img align='left' src='./sprites/mario.gif' width='200"'>  
-<img align='right' src='./sprites/zelda.gif' width='200"'>  
+<img align='left' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/mario.gif' width='200"'>  
+<img align='right' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/zelda.gif' width='200"'>  
 
 
 # BIO
