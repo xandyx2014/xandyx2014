@@ -23,7 +23,7 @@ Developer [facebook](https://www.facebook.com/andyjesus.maciasgomes), [Twitter](
 <p align="center">Where I have worked as a practitioner.</p>
 
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Workcop**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |
-|:---: | :---: | :---: | :---:|
+|:---: | :---: |
 | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='100px'> |
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> |
 
