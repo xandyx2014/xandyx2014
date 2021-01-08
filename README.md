@@ -10,6 +10,7 @@ Developer [facebook](https://www.facebook.com/andyjesus.maciasgomes), [Twitter](
 ☕ Consumer of 4 cups of coffee.  
 
 #### Contact me on Facebook or twitter
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.xandyx2014)
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
