@@ -13,12 +13,16 @@ Developer [facebook](https://www.facebook.com/andyjesus.maciasgomes), [Twitter](
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.visitor-badge)
 
 <h2 align="center">Projects</h2>
+
+
 <p align="center">Take a look at my most outstanding projects.</p>
 
 | <a href="https://github.com/xandyx2014/hidroponia-app" target="_blank">**Hidroponia**</a> | <a href="https://github.com/xandyx2014/Calculadora-nutricional" target="_blank">**Calculadora nutricional**</a> | <a href="https://github.com/xandyx2014/Control-de-ni-o-sano-app" target="_blank">**Control niño sano**</a> | <a href="https://github.com/xandyx2014/NotinutriUeb" target="_blank">**NotiNutriUeb**</a> |
 | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/water.svg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/food.svg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/baby.svg' height='100px'>  | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/nutrition.svg' height='100px'> |
 | <a href="https://github.com/xandyx2014/hidroponia-app" target="_blank">`Hidroponia UEB`</a> | <a href="https://github.com/xandyx2014/Calculadora-nutricional" target="_blank">`github.com/xandyx2014/Calculadora-nutricional`</a> | <a href="https://github.com/xandyx2014/Control-de-ni-o-sano-app" target="_blank">`github.com/xandyx2014/Control-de-ni-o-sano-app`</a> | <a href="https://github.com/xandyx2014/NotinutriUeb" target="_blank">`github.com/xandyx2014/NotinutriUeb`</a> |
+
+## [More Projects Click me](https://github.com/xandyx2014/xandyx2014/blob/master/projects/myProyects.md)
 
 <h2 align="center">Works | Practices</h2>
 <p align="center">Where I have worked as a practitioner.</p>
