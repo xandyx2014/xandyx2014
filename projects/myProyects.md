@@ -1,1 +1,8 @@
 # My Proyects
+
+Name Proyect| Description | Technologies|  Link
+------------ | ------------- | ------------- | -------------
+Qr app Detector | QR application for personnel access - this is the part of the security guard who will verify that the QR generated is valid or not.| Ionic, Angular | https://github.com/xandyx2014/Qr.guard-detector
+Qr app Cliente | QR application for personnel access this is the part that generates an invitation QR to give access to the guest and then the security guard will verify that the generated QR is valid or not. | Ionic, Angular, Nodejs | https://github.com/xandyx2014/Qr-Guard-cliente
+Calculate nutritional | Nutritional calculator which creates your recipes, where you can create your own recipes, save your own recipes in your favorites and | Ionic, Angular, Node js | https://github.com/xandyx2014/Calculadora-nutricional
+App Olivos | Application for customer care, nutrition control and food control and delivery of food in a certain amount of time and information for health care. | Ionic, Angular, Node js | https://github.com/xandyx2014/Control-nutricional-Frontend-App
