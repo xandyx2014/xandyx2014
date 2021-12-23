@@ -41,15 +41,11 @@ Developer [facebook](https://www.facebook.com/andyjesus.maciasgomes), [Twitter](
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/css.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/html.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/spring.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/php.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/vue.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/ionic.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/laravel.png' height='50px'>
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='50px'>
 </p>
 
