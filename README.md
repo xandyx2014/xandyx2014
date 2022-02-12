@@ -1,53 +1,48 @@
-<img align='left' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/mario.gif' width='200"'>  
-<img align='right' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/zelda.gif' width='200"'>  
+<img align='right' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/mario.gif' width='200"'>  
 
 
-# BIO
-Developer [facebook](https://www.facebook.com/andyjesus.maciasgomes), [Twitter](https://twitter.com/xandyx2008)
 
-🧮 Lover of Mathematics, 💕 Lover of anime, 🌎 Astronomy.  🎸 Music lover
-  
-💧 Consumer of 1 cups of watter.  
+## Hi I`m [Andy!](https://github.com/xandyx2014) 😺
 
-#### Contact me on Facebook or twitter
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.visitor-badge)
+Lorem ipsum dolor asdiknmasodnaoijsdnoijasndoiasjdiojnasidonasiodnjokasndioansdoinasdinasiofnbujoiadbngiuo asodnmiopasjd
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/jorgellanque/">
+  <img align="left" alt="Jorge LLanque | LinkedIn" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2506794-2100694.png" />
+</a>
+<a href="https://twitter.com/codeforever">
+  <img align="left" alt="Jorge LLanque | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<br/>
 
-<h2 align="center">Projects</h2>
+- 🧮 Lover of Mathematics
+- 🎸 Music lover
+- 💧 Consumer of 1 cups of watter.  
 
 
-<p align="center">Take a look at my most outstanding projects.</p>
 
-| <a href="https://github.com/xandyx2014/hidroponia-app" target="_blank">**Hidroponia**</a> | <a href="https://github.com/xandyx2014/Calculadora-nutricional" target="_blank">**Calculadora nutricional**</a> | <a href="https://github.com/xandyx2014/Control-de-ni-o-sano-app" target="_blank">**Control niño sano**</a> | <a href="https://github.com/xandyx2014/NotinutriUeb" target="_blank">**NotiNutriUeb**</a> |
-| :---: | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/water.svg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/food.svg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/baby.svg' height='100px'>  | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/image/nutrition.svg' height='100px'> |
-| <a href="https://github.com/xandyx2014/hidroponia-app" target="_blank">`Hidroponia UEB`</a> | <a href="https://github.com/xandyx2014/Calculadora-nutricional" target="_blank">`github.com/xandyx2014/Calculadora-nutricional`</a> | <a href="https://github.com/xandyx2014/Control-de-ni-o-sano-app" target="_blank">`github.com/xandyx2014/Control-de-ni-o-sano-app`</a> | <a href="https://github.com/xandyx2014/NotinutriUeb" target="_blank">`github.com/xandyx2014/NotinutriUeb`</a> |
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.visitor-badge)
 
-# [More Projects Click me](https://github.com/xandyx2014/xandyx2014/blob/master/projects/myProyects.md)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandyx2014&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
+
 
 <h2 align="center">Works | Practices</h2>
 <p align="center">Where I have worked as a practitioner.</p>
 
-| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |
-|:---: | :---: |
-| <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='100px'> |
-| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> |
+| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> |
+|:---: | :---: | :---: |
+| <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='100px'> |
+| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> | <a href="https://www.vitalcard.com/" target="_blank">`Vital Card`</a> 
 
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
-
-<p align="center">
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/angular.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/css.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/html.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/ionic.png' height='50px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='50px'>
+<h3 align="left">My Skills: </h3>
+<p align="left">
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='25px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='25px'>
 </p>
-
-<h2 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my github repositories..</p>
