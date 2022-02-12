@@ -27,22 +27,23 @@ Lorem ipsum dolor asdiknmasodnaoijsdnoijasndoiasjdiojnasidonasiodnjokasndioansdo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandyx2014&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
 
+<h3 align="left">My Skills: </h3>
+<p align="left">
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='28px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='28px'>
+</p>
 
-<h2 align="center">Works | Practices</h2>
-<p align="center">Where I have worked as a practitioner.</p>
+<h2 align="left">Works | Practices</h2>
+<p align="left">Where I have worked as a practitioner.</p>
 
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> |
 |:---: | :---: | :---: |
 | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='100px'> |
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> | <a href="https://www.vitalcard.com/" target="_blank">`Vital Card`</a> 
 
-<h3 align="left">My Skills: </h3>
-<p align="left">
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='25px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='25px'>
-</p>
+
