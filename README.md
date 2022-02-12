@@ -7,10 +7,10 @@
 I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about technology💞, coffee lover☕ and the music Queen group👑
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/jorgellanque/">
+<a href="https://www.linkedin.com/in/andy-jesus-macias-749682134/">
   <img align="left" alt="Jorge LLanque | LinkedIn" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2506794-2100694.png" />
 </a>
-<a href="https://twitter.com/codeforever">
+<a href="https://twitter.com/xandyx2008">
   <img align="left" alt="Jorge LLanque | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <br/>
