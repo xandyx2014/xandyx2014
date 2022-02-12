@@ -38,12 +38,11 @@ Lorem ipsum dolor asdiknmasodnaoijsdnoijasndoiasjdiojnasidonasiodnjokasndioansdo
   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='28px'>
 </p>
 
-<h2 align="left">Works | Practices</h2>
+<h3 align="left">Works | Practices</h3>
 <p align="left">Where I have worked as a practitioner.</p>
 
-| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> |
-|:---: | :---: | :---: |
-| <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='100px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='100px'> |
-| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> | <a href="https://www.vitalcard.com/" target="_blank">`Vital Card`</a> 
-
+| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Softsmart Systems**</a> |
+|:---: | :---: | :---: | :---: |
+| <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='75px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='75px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='75px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/soft.jpg' height='75px'> |
+| <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">`Kreab Bolivia`</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">`Work Cop Bo`</a> | <a href="https://www.vitalcard.com/" target="_blank">`Vital Card`</a> | <a href="https://softsmartinc.com/" target="_blank">`Softsmart Systems`</a> 
 
