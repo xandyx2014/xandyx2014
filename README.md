@@ -4,7 +4,7 @@
 
 ## Hi I`m [Andy!](https://github.com/xandyx2014) 😺
 
-Lorem ipsum dolor asdiknmasodnaoijsdnoijasndoiasjdiojnasidonasiodnjokasndioansdoinasdinasiofnbujoiadbngiuo asodnmiopasjd
+I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about technology💞, coffee lover☕ and the music Queen group👑
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/jorgellanque/">
