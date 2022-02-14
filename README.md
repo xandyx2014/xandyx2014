@@ -30,13 +30,14 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 
 <h3 align="left">My Skills: </h3>
 <p align="left">
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='28px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='28px'>
+    <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='30px'>
+    <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='30px'>
+   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='30px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='30px'>
+  <img src='https://raw.githubusercontent.com/xandyx2014/xandyx2014/master/skills/netCore.png' height='30px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='30px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='30px'>
+  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='30px'>
 </p>
 
 <h3 align="left">Works | Practices</h3>
