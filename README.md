@@ -26,18 +26,20 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandyx2014&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
 
 <h3 align="left">My Skills: </h3>
-<p align="left">
-    <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/react.png'  height='30px'>
-    <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/javascript.jpg'  height='30px'>
-   <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/nodejs.png'  height='30px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/csharp.png' height='30px'>
-  <img src='https://raw.githubusercontent.com/xandyx2014/xandyx2014/master/skills/netCore.png' height='30px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/express.png'  height='30px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/mongo.png'  height='30px'>
-  <img src='https://github.com/xandyx2014/xandyx2014/blob/master/skills/flutter.png' height='30px'>
-</p>
 
-<h3 align="left">Works | Practices</h3>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
+![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
+
+
+<h4 align="left">Works | Practices</h4>
 <p align="left">Where I have worked as a practitioner.</p>
 
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Softsmart Systems**</a> |
