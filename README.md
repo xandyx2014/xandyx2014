@@ -2,7 +2,7 @@
 
 
 
-## Hi I`m [Andy!](https://github.com/xandyx2014) 😺
+## Hi I'm [Andy!](https://github.com/xandyx2014) 😺
 
 I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about technology💞, coffee lover☕ and the music Queen group👑
 <br/>
@@ -20,8 +20,10 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 - 💧 Consumer of 1 cups of watter.  
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.visitor-badge)
 
+<!---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xandyx2014.visitor-badge)
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandyx2014&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
 
