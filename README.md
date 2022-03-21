@@ -42,7 +42,6 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 
 
 <h4 align="left">Works | Practices</h4>
-<p align="left">Where I have worked as a practitioner.</p>
 
 | <a href="https://kreab.com/santa-cruz-de-la-sierra/" target="_blank">**Kreab**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Work Corp**</a> |<a href="https://www.facebook.com/WorkCorp/" target="_blank">**Vital Card**</a> | <a href="https://www.facebook.com/WorkCorp/" target="_blank">**Softsmart Systems**</a> |
 |:---: | :---: | :---: | :---: |
