@@ -43,7 +43,7 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 
 <h4 align="left">Works | Practices</h4>
 
-| Kreab  | Workcorp | Vital Card | Softsmart Systems | Encora |
+| **Kreab** | **Workcorp** | **Vital Card** | **Softsmart Systems** | **Encora** |
 |:------:|:--------:|:----------:|:-----------------:|:------:|
 | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='75px'>  | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='75px'>   | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='75px'>     | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/soft.jpg' height='75px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/enora job.webp' height='75px'> |
 
