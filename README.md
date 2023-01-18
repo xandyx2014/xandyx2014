@@ -1,5 +1,5 @@
-<img align='right' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/pixel-cat.gif' width='200"'>  
-
+<img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/pixel-cat.gif' width='15%"'>  
+<br/>
 
 
 ## Hi I'm [Andy!](https://github.com/xandyx2014) 😺
