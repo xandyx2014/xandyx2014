@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/pixel-cat.gif' width='15%"'>  
+<img align='right' src='https://github.com/xandyx2014/xandyx2014/blob/master/sprites/cat.gif' width='45%'>  
 <br/>
 
 
