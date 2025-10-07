@@ -41,12 +41,20 @@ I am a web developer from Santa Cruz Bolivia, systems engineer, passionate about
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=jenkins&logoColor=fff&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
+![Xunit](https://img.shields.io/badge/XUnit-0089D6?style=for-the-badge)
+![Nunit](https://img.shields.io/badge/XUnit-0089D6?style=for-the-badge)
+<h4 align="left">Work Experience</h4>
 
-<h4 align="left">Works | Practices</h4>
-
-| **Kreab** | **Workcorp** | **Vital Card** | **Softsmart Systems** | **Encora** |
+| **Kreab** | **Workcorp** | **Vital Card** | **Softsmart Systems** | **Encora (current)** |
 |:------:|:--------:|:----------:|:-----------------:|:------:|
 | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop.jpg' height='75px'>  | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/workcop2.jpg' height='75px'>   | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/vital.png' height='75px'>     | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/soft.jpg' height='75px'> | <img align='center' src='https://github.com/xandyx2014/xandyx2014/blob/master/projects/enora job.webp' height='75px'> |
+
+![snake gif](https://github.com/Adri833/Adri833/blob/output/snake.svg)
 
 
 
